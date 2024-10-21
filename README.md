@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning how to create comics and graphic novels<br>🎯 Goals: To combine my love for coding and storytelling in web comics<br>🎲 Fun fact: I have a TikTok channel with 19k followers where I share comic-making tips and showcase my art!</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently on my journey to become a full-stack developer and DevOps engineer<br>🎯 Goals: To merge my skills in coding with my creative interests<br>🎲 **Fun fact:** I’m passionate about reading stories and playing board games! I also manage a TikTok channel with 19k followers, where I share insights on manga, manhwa, and novels.</p>
 
 ###
 
